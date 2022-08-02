@@ -2,7 +2,7 @@
 
 Welcome to the repository of my Bachelor's thesis at the Department of Electrical and Computer Engineering at TUM. My thesis was about "Constraint Violation Probability Minimization for a Robot Manipulator". To read a more detailed discussion see my thesis and final presentation.
 
-This directory contains the Matlab code, as well as the final report and presentation.
+This directory contains the Matlab code, as well as the final [report](https://github.com/sirine90/CVPM-MPC/blob/main/report/Bachelor-Thesis.pdf) and [presentation](https://github.com/sirine90/CVPM-MPC/blob/main/presentation/StudentSlides_Template.pdf).
 
 This is a brief description of some of the functions under the folder "functions":
 
